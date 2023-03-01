@@ -15,6 +15,6 @@ This module takes object from database and build card item in HTML page. Price f
     "altimg": "altImg",
     "title": "The title of the Item",
     "descr": "The description of the Item",
-    "price": The number of the price in USD
+    "price": "The number of the price in USD"
 }
 ```
