@@ -9,7 +9,7 @@ This module takes object from database and build card item in HTML page. Price f
 * In order to take data from Database, change 'getResource' function call: change param and change parent selector in 'then' method.
 
 ### Example Database-structure:
-```
+```json
 {
     "img": "img.jpm",
     "altimg": "altImg",
